@@ -1,0 +1,8 @@
+defmodule Project2501Test do
+  use ExUnit.Case
+  doctest Project2501
+
+  test "the truth" do
+    assert 1 + 1 == 2
+  end
+end
